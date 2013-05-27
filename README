@@ -9,7 +9,7 @@ How to build:
 You need the sources of the androidarmv6-project, because armv6 in not supported in the official cynogenmod source tree:
 > repo init -u git://github.com/androidarmv6/android.git -b jellybean
 
-Create the configuration to load the u8510 files. Copy/paste it WORKING_DIR/.repo/local_manifest.xml
+Create the configuration to load the u8650 files. Copy/paste it WORKING_DIR/.repo/local_manifest.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/huawei/u8650"          name="eisi14/android_device_huawei_u8650" remote="github" revision="jellybean" />
