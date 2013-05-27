@@ -1,0 +1,2 @@
+add_lunch_combo cm_u8650-eng
+add_lunch_combo cm_u8650-userdebug
